@@ -1,0 +1,7 @@
+[WARN ] 06-12-2019 12:59:54 org.apache.pdfbox.pdmodel.font.FileSystemFontProvider loadDiskCache - New fonts found, font cache will be re-built
+[WARN ] 06-12-2019 12:59:54 org.apache.pdfbox.pdmodel.font.FileSystemFontProvider <init> - Building on-disk font cache, this may take a while
+[WARN ] 06-12-2019 12:59:57 org.apache.pdfbox.pdmodel.font.FileSystemFontProvider <init> - Finished building on-disk font cache, found 681 fonts
+[WARN ] 06-12-2019 12:59:58 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-12-2019 13:04:32 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-12-2019 13:06:04 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-12-2019 13:11:38 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular

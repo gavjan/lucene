@@ -1,0 +1,5 @@
+[WARN ] 06-19-2019 19:41:42 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-19-2019 19:41:43 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-19-2019 19:41:57 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-19-2019 19:41:57 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[INFO ] 06-19-2019 23:10:32 pl.edu.mimuw.gc401929.core.JLineClass main - Warming up...
