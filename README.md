@@ -1,8 +1,8 @@
 ## Lucene
 
-Indexed searching in documents. Allows indexing the content of popular documents formats (including PDF, not just pure text files). When the document crawler collection is large and consists of several hundred or even several thousand files - scanning the content of all documents each time for a given job will be slow. Hence the need to use an index that significantly speeds up the search process.
+Using Search Indexing for efficient searching inside popular file types (.pdf .rtf ...) that are located under a directory that has already been indexed
 
-## Build
+# Build
 
 Indexer: with "argument"
 ```
