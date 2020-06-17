@@ -1,6 +1,10 @@
-## Lucene
+## Search Indexing with Apache Lucene
 
 Using Search Indexing for efficient searching inside popular file types (.pdf .rtf ...) that are located under a directory that has already been indexed
+
+# Task Description
+
+Full task descrption (in Polish) can be found in `Lucene.pdf`
 
 # Build
 
